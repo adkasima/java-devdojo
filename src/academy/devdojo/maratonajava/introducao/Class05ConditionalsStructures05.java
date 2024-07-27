@@ -1,8 +1,8 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Class05Conditionals05 {
+public class Class05ConditionalsStructures05 {
     public static void main(String[] args) {
-        // print the day of week, considering 1 to sunday
+        // print the day of week, considering 1 as sunday
 
         byte day = 5;
 

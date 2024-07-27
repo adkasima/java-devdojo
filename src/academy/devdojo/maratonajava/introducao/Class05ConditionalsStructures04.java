@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Class05Conditionals04 {
+public class Class05ConditionalsStructures04 {
     public static void main(String[] args) {
         double annualSalary = 70000;
         double firstTax = 9.7 / 100;
