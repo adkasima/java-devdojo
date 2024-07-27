@@ -8,9 +8,13 @@ public class Class06RepetitionStructures01 {
             System.out.println("count " +count);
             count++;
         }
-
+        count = 12;
         do {
             System.out.println("count " + ++count);
         }while (count < 10);
+
+        for (int i = 0; i <=10; i++) {
+            System.out.println("i " +i);
+        }
     }
 }
