@@ -1,9 +1,9 @@
 package academy.devdojo.maratonajava.javacore.Bintroducaometodos.domain;
 
 public class Employee {
-    public String name;
-    public int age;
-    public double[] wages;
+    private String name;
+    private int age;
+    private double[] wages;
 
     public void print(Employee employee) {
         if(name == null || age == 0 || wages == null) {
@@ -31,5 +31,27 @@ public class Employee {
         System.out.println("Waves average: " + average);
     }
 
+    public String getName() {
+        return name;
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public double[] getWages() {
+        return wages;
+    }
+
+    public void setWages(double[] wages) {
+        this.wages = wages;
+    }
 }
