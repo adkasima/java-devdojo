@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Bintroducaometodos.domain;
+package academy.devdojo.maratonajava.javacore.Bmethodsintroduction.domain;
 
 public class StudentPrinter {
     public void print(Student student) {

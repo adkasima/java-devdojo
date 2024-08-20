@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.javacore.Bintroducaometodos.test;
+package academy.devdojo.maratonajava.javacore.Bmethodsintroduction.test;
 
-import academy.devdojo.maratonajava.javacore.Bintroducaometodos.domain.Employee;
+import academy.devdojo.maratonajava.javacore.Bmethodsintroduction.domain.Employee;
 
 public class EmployeeTest01 {
     public static void main(String[] args) {
