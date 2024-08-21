@@ -26,27 +26,4 @@ public class Anime {
 
     }
 
-    public String getType() {
-        return type;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public int getEpisodes() {
-        return episodes;
-    }
-
-    public void setEpisodes(int episodes) {
-        this.episodes = episodes;
-    }
-
-    public String getGenre() {
-        return genre;
-    }
-
-    public void setGenre(String genre) {
-        this.genre = genre;
-    }
 }

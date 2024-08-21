@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
-
-import java.util.Arrays;
+package academy.devdojo.maratonajava.introduction;
 
 public class Class07Arrays02 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
+package academy.devdojo.maratonajava.introduction;
 
 public class Class06RepetitionStructures04 {
     public static void main(String[] args) {
