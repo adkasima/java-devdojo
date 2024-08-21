@@ -8,11 +8,9 @@ public class AnimeTest01 {
         Anime anime = new Anime("Cyberpunk: Edgerunners",
                 "Streaming",
                 12,
-                "Action");
+                "Action",
+                "Trigger");
 
-        //Instanciando sem parâmtros obrigatórios
-        Anime anime2 = new Anime();
         anime.print();
-        anime2.print();
     }
 }
